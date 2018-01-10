@@ -15,11 +15,14 @@ Why are these objects replicated?
 Which one is the reproduction?^
 Which one is more valuable?
 Botched Restoration of Jesus Fresco Miraculously Saves Spanish Town
+
 Subjectivity, reproductions with small defects are worth more than the original(ex: star wars figures, rare coins, stamps, defect bank notes)
 Mechanical reproduction of art gives more access to the masses. Original vs. cheap reproduction. An artist’s intention of their piece loses meaning as time goes on. The audience may perceive the piece of art entirely different than the artist or fellow audience members.  
-Censorship in restoring original paintings. 
- The public is an examiner, but an absent-minded one.
+Censorship in restoring original paintings.
+
+"The public is an examiner, but an absent-minded one."
 Objects have a use biography - used and represented different ways throughout its life. 
+
 Programming is Forgetting: 
 http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/
 
