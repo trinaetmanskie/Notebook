@@ -1,4 +1,4 @@
-# Notebook1
+Notebook1
 # HIST3812
 # January 10th 2018
 
@@ -27,7 +27,7 @@ Subjectivity, reproductions with small defects are worth more than the original(
 
 Mechanical reproduction of art gives more access to the masses. Original vs. cheap reproduction. An artist’s intention of their piece loses meaning as time goes on. The audience may perceive the piece of art entirely different than the artist or fellow audience members. 
 
-_Censorship in restoring original paintings_
+**Censorship in restoring original paintings**
 
 > *"The public is an examiner, but an absent-minded one."*
 
