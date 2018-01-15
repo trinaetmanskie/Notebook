@@ -1,7 +1,7 @@
 # Notebook1
 HIST3812
 January 10th 2018
-> “If we stop interpreting, if we stop rehearsing, if we stop reproducing, the very existence of the original is at stake. It might stop having abundant copies and slowly disappear.” 
+> *“If we stop interpreting, if we stop rehearsing, if we stop reproducing, the very existence of the original is at stake. It might stop having abundant copies and slowly disappear.”* 
 
 - what about those people who cannot visit Paris every day to visit the Louvre?
 - what about authenticity? Who is looking for authenticity?
