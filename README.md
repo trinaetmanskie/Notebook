@@ -1,6 +1,9 @@
 # Notebook1
-HIST3812
-January 10th 2018
+# HIST3812
+# January 10th 2018
+
+### Lecture
+
 > *“If we stop interpreting, if we stop rehearsing, if we stop reproducing, the very existence of the original is at stake. It might stop having abundant copies and slowly disappear.”* 
 
 - what about those people who cannot visit Paris every day to visit the Louvre?
@@ -8,7 +11,7 @@ January 10th 2018
 - collective memory
 - but without these copies, would we value the original as much?
 
-> What does originality mean?
+> *What does originality mean?*
 
 “The original although only in the name”
 The value of replications..
@@ -24,9 +27,9 @@ Subjectivity, reproductions with small defects are worth more than the original(
 
 Mechanical reproduction of art gives more access to the masses. Original vs. cheap reproduction. An artist’s intention of their piece loses meaning as time goes on. The audience may perceive the piece of art entirely different than the artist or fellow audience members. 
 
-Censorship in restoring original paintings.
+_Censorship in restoring original paintings_
 
-> "The public is an examiner, but an absent-minded one."
+> *"The public is an examiner, but an absent-minded one."*
 
 Objects have a use biography - used and represented different ways throughout its life. 
 
